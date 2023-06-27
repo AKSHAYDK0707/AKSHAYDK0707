@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKSHAYDK0707
 - 👀 I’m interested in ...:SQL,Power BI,Excel,tableau,Python,HTML.
-- 🌱 I’m currently learning ...:PYthon.
+- 🌱 I’m currently learning ...:Python.
 - 💞️ I’m looking to collaborate on ...any data analytics job
 - 📫 How to reach me ...:akshaydk0707@gmail.com
 
